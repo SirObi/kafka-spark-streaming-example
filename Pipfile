@@ -11,7 +11,7 @@ python-dateutil = "*"
 pathlib = "*"
 kafka-python = "*"
 ipython = "*"
-pyspark = "==2.4.3"
+pyspark = "==3.2.2"
 ciso8601 = "*"
 black = "*"
 
